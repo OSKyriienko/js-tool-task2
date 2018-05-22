@@ -91,6 +91,7 @@ console.log('index ddd', Object(_test__WEBPACK_IMPORTED_MODULE_0__["sum"])(2, 2)
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sum", function() { return sum; });
 const sum = (a, b) => a + b;
+
 /* harmony default export */ __webpack_exports__["default"] = (sum);
 
 /***/ }),
