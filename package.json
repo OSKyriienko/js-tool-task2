@@ -36,7 +36,6 @@
     "csslint-loader": "^1.0.0"
   },
   "pre-commit": [
-    "lint",
-    "csslint"
+
   ]
 }
